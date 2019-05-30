@@ -1,0 +1,28 @@
+/*Write your style here*/
+.container {
+	background-image:url("../images/banner.jpg");
+	background-attachment: fixed;
+	position: absolute;
+   top: 3em;
+   left: 0;
+   width: 30em;
+   height: 20em;
+
+
+ } 
+ .row{
+ 	color: white;
+ 	font-family: arial;
+
+ } 
+  .lala{
+ 	color: white;
+ 	font-family: arial;
+ 	font-size:50px;
+
+ } 
+ .la{
+ 	background-attachment: fixed;
+
+ } 
+
